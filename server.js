@@ -21,7 +21,7 @@ const app = express();
 
 // ---------------- UPDATED CORS CONFIG ----------------
 const allowedOrigins = [
-  'http://localhost:3000',
+  'https://inteliodev.com',
   'http://localhost:3001',
   'http://localhost:3002',
   // 'https://syncdeft.thedeftcrew.com',  // Your Hostinger domain
